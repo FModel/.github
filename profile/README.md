@@ -10,7 +10,6 @@ We highly rely on contribution for the projects we work on, to make FModel even 
 
 - [FModel](https://github.com/iAmAsval/FModel) - Software for exploring UE4-5 games' files
 - [CUE4Parse](https://github.com/FabianFG/CUE4Parse) - C# Parser for Unreal Engine packages & assets
-- [CUE4Parse-Natives](https://github.com/FModel/CUE4Parse-Natives) - The native libraries used for support such as Oodle, ACL, etc.
 
 ---
 
