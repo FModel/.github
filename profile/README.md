@@ -8,7 +8,7 @@ Beginner-friendly and open-source software for **data-mining games made with Unr
 
 We highly rely on contribution for the projects we work on, to make FModel even better. We encourage open collaboration made by the community, if you are a developer, feel free to contribute:
 
-- [FModel](https://github.com/iAmAsval/FModel) - Software for exploring UE4-5 games' files
+- [FModel](https://github.com/4sval/FModel) - Software for exploring UE4-5 games' files
 - [CUE4Parse](https://github.com/FabianFG/CUE4Parse) - C# Parser for Unreal Engine packages & assets
 
 ---
