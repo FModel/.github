@@ -10,6 +10,7 @@ We highly rely on contribution for the projects we work on, to make FModel even 
 
 - [FModel](https://github.com/4sval/FModel) - Software for exploring UE4-5 games' files
 - [CUE4Parse](https://github.com/FabianFG/CUE4Parse) - C# Parser for Unreal Engine packages & assets
+- [Snooper](https://github.com/FModel/Snooper) - OpenGL based 3D viewer for cooked UE packages
 
 ---
 
